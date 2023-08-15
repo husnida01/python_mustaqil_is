@@ -176,6 +176,7 @@
 
 # info = input("Kiriting: ")
 # print(info[::-1])
+# print(salom)
 
 
 
@@ -192,9 +193,9 @@
 # time2 = soat2, minut2, secund2
 
 time1 = int(input("1-time: "))
-time1 = int(input("1-minut: "))
-time1 = int(input("1-secund: "))
+# time1 = int(input("1-minut: "))
+# time1 = int(input("1-secund: "))
 
-time2 = int(input("2-time: "))
-time2 = int(input("2-minut: "))
-time2 = int(input("2-secund: "))
+# time2 = int(input("2-time: "))
+# time2 = int(input("2-minut: "))
+# time2 = int(input("2-secund: "))
